@@ -1,6 +1,6 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
-
+https://github.com/karlverdiere/learn_ruby_rspec
 ### Set up instructions
 
 1. Fork this repo
